@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/COdC7J1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/gallery/flixster-HlDddVK
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif  
@@ -41,7 +41,7 @@ GIF created with ScreenToGif
 
 ## Notes
 
-The API key wasn't working right until I ended up deleting and retyping my code for me to realize it was a formatting issue.
+The API key wasn't working right until I ended up deleting and retyping my code for me to realize it was a formatting issue. Also for some reason the Imgur website is being weird and won't allow me to show my gif in the README properly so I had to put it in as a link.
 
 ## License
 
